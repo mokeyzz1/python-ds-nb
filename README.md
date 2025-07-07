@@ -1,8 +1,10 @@
 # Python Data Structures and Notebooks
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+This repo contains:
 
-## Rubric
+- `python-ds.ipynb`: The original Jupyter notebook
+- `python-ds.html`: The exported HTML version
+- `S576958.ipynb`: Pattern drawing notebook
+- `S576958.html: The exported HTML version
 
-Each question is worth one point.
+Export method: `jupyter nbconvert --to html`
